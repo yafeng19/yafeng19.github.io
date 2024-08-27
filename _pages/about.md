@@ -50,9 +50,9 @@ ACM International Conference on Multimedia (ACM MultiMedia) 2024.  **<font color
 - *ACM MultiMedia* Reviewer (2024)
 
 # 🎖 Honors and Awards
-- *2023.07* Provincial-level Excellent Graduates. （省级优秀毕业生）
-- *2023.05* Provincial-level Excellent Students. （省级优秀学生）
-- *2023.04* The 21st Top Ten Undergraduates of HIT. （哈工大十佳大学生）
+- *2023.07* Provincial-level Excellent Graduates. (省级优秀毕业生)
+- *2023.05* Provincial-level Excellent Students. (省级优秀学生)
+- *2023.04* The 21st Top Ten Undergraduates of HIT. (哈工大十佳大学生)
 - *2020.12* National Scholarship for Undergraduates. (国家奖学金)
 
 # 🎓 Educations
