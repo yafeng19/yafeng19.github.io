@@ -68,7 +68,7 @@ University of Chinese Academy of Sciences (UCAS), Beijing.
 <div class='school-box'>
 <div><img src='images/hit.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.06 - 2023.06, **Undergraduate**.<br>
+2019.09 - 2023.06, **Undergraduate**.<br>
 School of Computer Science and Technology.<br>
 Harbin Institute of Technology (HIT), Weihai.
 </div>
