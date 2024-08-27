@@ -24,10 +24,10 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 
-<!--
+
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One Paper has been accepted by ACM MultiMedia 2024 and further selected as an Oral.
--->
+
 
 # 📝 Publications 
 
@@ -36,7 +36,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 [Not All Pairs are Equal: Hierarchical Learning for Average-Precision-Oriented Video Retrieval](https://arxiv.org/abs/2407.15566)
 
-**Yang Liu**,  [Qianqian Xu*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qingming Huang*](https://people.ucas.ac.cn/~qmhuang). 
+**Yang Liu**,  [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
 ACM International Conference on Multimedia (ACM MultiMedia) 2024.  **<font color='red'> (Oral, 3.97%) </font>** | 
 [[code]](https://github.com/yafeng19/HAP-VR) | [[slides]](https://github.com/yafeng19/HAP-VR) | [[project]](https://github.com/yafeng19/HAP-VR) 
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -53,25 +53,23 @@ ACM International Conference on Multimedia (ACM MultiMedia) 2024.  **<font color
 - *2023.07* Provincial-level Excellent Graduates. （省级优秀毕业生）
 - *2023.05* Provincial-level Excellent Students. （省级优秀学生）
 - *2023.04* The 21st Top Ten Undergraduates of HIT. （哈工大十佳大学生）
-- *2020.12* 2019-2020 National Scholarship for Undergraduates. (国家奖学金)
+- *2020.12* National Scholarship for Undergraduates. (国家奖学金)
 
 # 🎓 Educations
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2023.09 - now, Ph.D. Student.
-
-School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing.
+2023.09 - Now, **Ph.D. Student**.<br>
+School of Computer Science and Technology.<br>
+University of Chinese Academy of Sciences (UCAS), Beijing.
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/hit.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.06 - 2023.06, Undergraduate.
-
-School of Computer Science and Technology.
-
+2019.06 - 2023.06, **Undergraduate**.<br>
+School of Computer Science and Technology.<br>
 Harbin Institute of Technology (HIT), Weihai.
 </div>
 </div>
