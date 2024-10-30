@@ -26,7 +26,9 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One Paper has been accepted by ACM MultiMedia 2024 and further selected as an Oral.
+- *2024.10*: &nbsp;🎉🎉 Our ACM MultiMedia 2024 paper has been presented as Honourable Mention Award!
+- *2024.10*: &nbsp;🎉🎉 Our ACM MultiMedia 2024 paper has been nominated for best paper awards.
+- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MultiMedia 2024 and further selected as an oral.
 
 
 # 📝 Publications 
@@ -37,7 +39,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 [Not All Pairs are Equal: Hierarchical Learning for Average-Precision-Oriented Video Retrieval](https://arxiv.org/abs/2407.15566)
 
 **Yang Liu**,  [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
-ACM International Conference on Multimedia (ACM MultiMedia) 2024.  **<font color='red'> (Oral, 3.97%) </font>** | 
+ACM International Conference on Multimedia (ACM MultiMedia) 2024.  **<font color='red'> (Honourable Mention Award) </font>**  **<font color='red'> (Oral, 3.97%) </font>** | 
 [[code]](https://github.com/yafeng19/HAP-VR) | [[slides]](https://github.com/yafeng19/HAP-VR) | [[project]](https://github.com/yafeng19/HAP-VR) 
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
