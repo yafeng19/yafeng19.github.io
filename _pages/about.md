@@ -43,7 +43,7 @@ ACM International Conference on Multimedia (ACM MultiMedia) 2024.  **<font color
 [[code]](https://github.com/yafeng19/HAP-VR) | [[slides]](https://github.com/yafeng19/HAP-VR) | [[project]](https://github.com/yafeng19/HAP-VR) 
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
-- This paper proposes a self-supervised video retrieval framework with hierarchical AP optimization at the video level and frame level.
+- This paper proposes a self-supervised video retrieval framework with hierarchical AP optimization from the view of aligning the training objective and the evaluation metric.
 </div>
 </div>
 
@@ -51,11 +51,12 @@ ACM International Conference on Multimedia (ACM MultiMedia) 2024.  **<font color
 # 📖 Academic Services
 - *ACM MultiMedia* Reviewer (2024)
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
+- *2024.10* ACM MultiMedia 2024 Honourable Mention Award. (荣誉提名奖)
 - *2023.07* Provincial-level Excellent Graduates. (省级优秀毕业生)
 - *2023.05* Provincial-level Excellent Students. (省级优秀学生)
 - *2023.04* The 21st Top Ten Undergraduates of HIT. (哈工大十佳大学生)
-- *2020.12* National Scholarship for Undergraduates. (国家奖学金)
+- *2020.12* National Scholarship for Undergraduates. (本科生国家奖学金)
 
 # 🎓 Educations
 <div class='school-box'>
