@@ -26,12 +26,29 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025.
 - *2024.10*: &nbsp;🎉🎉 Our ACM MultiMedia 2024 paper has been presented as Honourable Mention Award!
 - *2024.10*: &nbsp;🎉🎉 Our ACM MultiMedia 2024 paper has been nominated for best paper awards.
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MultiMedia 2024 and further selected as an oral.
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/cvpr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When the Future Becomes the Past: Taming Temporal Correspondence for Self-supervised Video Representation Learning]()
+
+**Yang Liu**,  [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
+Conference on Computer Vision and Pattern Recognition (CVPR) 2025. | 
+[[code]]() | [[slides]]() | [[project]]() 
+<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- This paper proposes a self-supervised framework for dense-level video representation learning with temporal correspondence.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024 (Oral)</div><img src='images/papers/acmmm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
