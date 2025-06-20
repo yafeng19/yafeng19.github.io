@@ -9,17 +9,18 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Academic Services"
-    url: "/#-academic-services"
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Academic Services"
+    url: "/#-academic-services"
+
   - title: "Educations"
     url: "/#-educations"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
 
   # - title: "Internships"
   #   url: "/#-internships"

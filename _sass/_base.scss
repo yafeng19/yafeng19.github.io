@@ -38,6 +38,7 @@ h2 {
 }
 
 h3 {
+  margin-top: 0;
   font-size: $type-size-5;
 }
 
@@ -164,7 +165,8 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+  // margin-bottom: 0.5em;
+  margin-bottom: 0.3em;
 }
 
 li ul,
