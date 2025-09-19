@@ -26,7 +26,8 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Two first-place prizes were won in CVPR 2025 Challenges.
+- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025.
+- *2025.06*: &nbsp;🎉🎉 Winning two first-prizes of the CVPR 2025 Challenges.
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025.
 - *2024.10*: &nbsp;🎉🎉 Our ACM MultiMedia 2024 paper has been presented as Honourable Mention Award!
 <!-- - *2024.10*: &nbsp;🎉🎉 Our ACM MultiMedia 2024 paper has been nominated for best paper awards. -->
@@ -62,6 +63,20 @@ ACM International Conference on Multimedia (**ACM MultiMedia, CCF-A**) 2024.  **
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
 - This paper proposes a self-supervised video retrieval framework with hierarchical AP optimization from the view of aligning the training objective and the evaluation metric.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Performance Degradation in Dense Tasks for Self-supervised Learning]()
+
+[Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), **Yang Liu**, [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang).
+Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 2025. | 
+[[Code]]() | [[Slides]]() | [[Project]]() 
+<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- This paper provides an observation of dense degradation phenomenon in self-supervised learning and introduces a Dense representation Quality Estimator to mitigate dense degradation.
 </div>
 </div>
 
