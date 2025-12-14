@@ -80,9 +80,14 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 </div>
 </div>
 
+- [Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement](https://arxiv.org/abs/2511.20280), **Yang Liu**, Xilin Zhao, Peisong Wen, Siran Dai, Qingming Huang. ICCV Workshop on Physics-IQ × Perception Test Challenge, 2025.
+
 - [Exploring Non-contrastive Self-supervised Representation Learning for Image-based Profiling](https://arxiv.org/abs/2506.14265), Siran Dai, Qianqian Xu, Peisong Wen, **Yang Liu**, Qingming Huang. CVPR Workshop on Computer Vision for Drug Discovery, 2025.
 
 # 💬 Invited Talks
+- *2025.11*: Talk on University of Chinese Academy of Sciences 2025 Graduate Academic Forum. [\[Website\]](https://cnic.cas.cn/yjsjy/pygl/202511/t20251119_8014065.html)
+- *2025.10*: Talk on third-place solution for ICCV 2025 Physics-IQ × Perception Test Challenge. [\[Slides\]](https://github.com/yafeng19/yafeng19.github.io/tree/master/resources/ICCV_PhyIQ_talk.pdf)
+- *2025.10*: Talk on 2025 China Journal of Image and Graphics Graduate Student Academic Salon. [\[Website\]](https://mp.weixin.qq.com/s/6-cKZ01YnX3ASSqN_8q2XQ)
 - *2025.06*: Talk on first-place solution for CVPR 2025 AVA Challenge of 3D Human Motion Generation Track. [\[Slides\]](https://github.com/yafeng19/yafeng19.github.io/tree/master/resources/CVPR2025_AVA_Talk.pdf)
 - *2024.12*: Talk on Young Scientists Conference of CSIG 2024. [\[Poster\]](https://github.com/yafeng19/yafeng19.github.io/tree/master/resources/CSIG2024_Poster.pdf)
 - *2024.10*: Oral presentation of ACM MultiMedia 2024. [\[Slides\]](https://github.com/yafeng19/yafeng19.github.io/tree/master/resources/ACMMM2024_Oral.pdf)
@@ -91,12 +96,15 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 
 # 🏅 Honors and Awards
 ### Research Awards
-- *2025.06*: First place in [CVPR 2025 AVA Challenge of 3D Human Motion Generation Track](https://accessibility-cv.github.io/).
-- *2025.06*: First place in [CVPR 2025 Computer Vision for Drug Discovery Challenge](https://cvdd-cvpr25.github.io/challenge.html).
-- *2024.12*: [Excellent Poster on Young Scientists Conference of CSIG 2024](http://youth.csig.org.cn/CSIG2024/index.html#/announcement/2024-12-21-success).
-- *2024.10*: [ACM MultiMedia 2024 Honourable Mention Award](https://2024.acmmm.org/awards).
+- *2025.10*: Third place in ICCV 2025 Physics-IQ × Perception Test Challenge. [\[Website\]](https://physics-iq.github.io/workshop/physics-iq-challenge.html).
+- *2025.10*: Outstanding report on 2025 China Journal of Image and Graphics Graduate Student Academic Salon. [\[Website\]](https://mp.weixin.qq.com/s/6-cKZ01YnX3ASSqN_8q2XQ)
+- *2025.06*: First place in CVPR 2025 AVA Challenge of 3D Human Motion Generation Track. [\[Website\]](https://accessibility-cv.github.io/).
+- *2025.06*: First place in CVPR 2025 Computer Vision for Drug Discovery Challenge. [\[Website\]](https://cvdd-cvpr25.github.io/challenge.html).
+- *2024.12*: Excellent Poster on Young Scientists Conference of CSIG 2024. [\[Website\]](http://youth.csig.org.cn/CSIG2024/index.html#/announcement/2024-12-21-success).
+- *2024.10*: ACM MultiMedia 2024 Honourable Mention Award. (<font color='red'>ACM MultiMedia 2024 最佳论文荣誉提名奖</font>) [\[Website\]](https://2024.acmmm.org/awards).
 
 ### Honorary Prizes
+- *2025.12*: National Scholarship for Doctoral Students. (博士研究生国家奖学金)
 - *2025.05*: President of Chinese Academy of Sciences Excellence Award. (中国科学院院长优秀奖)
 - *2025.05*: Pacemaker to Merit Student of UCAS. (三好学生标兵)
 - *2023.07*: Provincial-level Excellent Graduates. (省级优秀毕业生)
@@ -109,6 +117,7 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 ### Journal
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT): Reviewer
 - Multimedia Systems: Reviewer
+- Artificial Intelligence In Medicine: Reviewer
 
 ### Conference
 - ACM MultiMedia: Reviewer (2024)
