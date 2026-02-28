@@ -26,6 +26,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 Winning two first-prizes of the CVPR 2025 Challenges.
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025.
@@ -36,6 +37,19 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning]()
+
+**Yang Liu**,  [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), Xilin Zhao, [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
+Conference on Computer Vision and Pattern Recognition (**CVPR, CCF-A**) 2026. | 
+[[Code]](https://github.com/yafeng19/Co-Settle) | [[Slides]](https://github.com/yafeng19/Co-Settle) | [[Project]](https://github.com/yafeng19/Co-Settle) 
+<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- This paper proposes a self-supervised image-to-video transfer learning method for effective trade-off between intra-video temporal consistency and inter-video semantic separability.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,7 +83,7 @@ ACM International Conference on Multimedia (**ACM MultiMedia, CCF-A**) 2024.  **
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Performance Degradation in Dense Tasks for Self-supervised Learning]()
+[Exploring Structural Degradation in Dense Representations for Self-supervised Learning](https://arxiv.org/abs/2510.17299)
 
 [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), **Yang Liu**, [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang).
 Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 2025. | 
@@ -104,12 +118,13 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 - *2024.10*: ACM MultiMedia 2024 Honourable Mention Award. (<font color='red'>ACM MultiMedia 2024 最佳论文荣誉提名奖</font>) [\[Website\]](https://2024.acmmm.org/awards).
 
 ### Honorary Prizes
+<!-- - *2026.01*: Excellent Students of Beijing. (北京市三好学生) -->
 - *2025.12*: National Scholarship for Doctoral Students. (博士研究生国家奖学金)
 - *2025.05*: President of Chinese Academy of Sciences Excellence Award. (中国科学院院长优秀奖)
 - *2025.05*: Pacemaker to Merit Student of UCAS. (三好学生标兵)
-- *2023.07*: Provincial-level Excellent Graduates. (省级优秀毕业生)
-- *2023.05*: Provincial-level Excellent Students. (省级优秀学生)
-- *2023.04*: The 21st Top Ten Undergraduates of HIT. (哈工大十佳大学生)
+- *2023.07*: Excellent Graduates of Shandong Province. (山东省优秀毕业生)
+- *2023.05*: Excellent Students of Shandong Province. (山东省优秀学生)
+- *2023.04*: The 21st Top Ten Undergraduates of HIT. (哈工大威海十佳大学生)
 - *2020.12*: National Scholarship for Undergraduates. (本科生国家奖学金)
 
 
@@ -121,6 +136,8 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 
 ### Conference
 - ACM MultiMedia: Reviewer (2024)
+- CVPR: Reviewer (2026)
+- ECCV: Reviewer (2026)
 
 
 # 🎓 Educations
