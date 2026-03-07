@@ -37,7 +37,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning]()
@@ -91,6 +91,18 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
 - This paper provides an observation of dense degradation phenomenon in self-supervised learning and introduces a Dense representation Quality Estimator to mitigate dense degradation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26b.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Safe Codebook: Token-Level Moderation for Safer Visual Autoregressive Generation]()
+Jiaxuan Zhang, [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), **Yang Liu**, [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
+Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**) 2026. | 
+[[Code]]() | [[Slides]]() | [[Project]]() 
+<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- This paper proposes a training-free controllable framework for Visual Autoregressive models to effectively suppress harmful content while maintaining high fidelity to the original image.
 </div>
 </div>
 
