@@ -96,7 +96,9 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [Safe Codebook: Token-Level Moderation for Safer Visual Autoregressive Generation]()
+
 Jiaxuan Zhang, [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), **Yang Liu**, [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
 Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**) 2026. | 
 [[Code]]() | [[Slides]]() | [[Project]]() 
