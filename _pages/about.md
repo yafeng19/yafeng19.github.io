@@ -40,7 +40,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning]()
+[From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning](https://arxiv.org/abs/2603.26597)
 
 **Yang Liu**,  [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), Xilin Zhao, [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
 Conference on Computer Vision and Pattern Recognition (**CVPR, CCF-A**) 2026. | 
@@ -94,6 +94,22 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJC 2026</div><img src='images/papers/cjc26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Collaborative Salient Object Detection via Complex Background Semantic Modeling](https://kns.cnki.net/kcms2/article/abstract?v=OGEEvuKkrhYso5Gd6juhmcmlnUp3D_muDen3-Jo4giItV_wJzCz_3k8WUqib_5DSppwCslKSMhQIINa445GY61nHGzHC7AjY8y-xztS7Gp2JwL74qLXTBr7upyUmpKzKSpz55lI55kydLNiG1HulgWkPk4EfqNv5VGW6v4ne041433d1b2-jTw==&uniplatform=NZKPT&language=CHS)
+
+[Zitai Wang](https://wang22ti.com/), [Qianqian Xu\*](https://qianqianxu010.github.io/), Yuchen Cao, **Yang Liu**, [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang). 
+Chinese Journal of Computers (**计算机学报, CCF-A**) 2026. | 
+[[Code]]() | [[Slides]]() | [[Project]]() 
+<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- This paper introduces a co-salient object detection method that improves detection accuracy by explicitly addressing the semantic ambiguity and heterogeneity of background regions.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -132,7 +148,7 @@ Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**)
 - *2024.10*: ACM MultiMedia 2024 Honourable Mention Award. (<font color='red'>ACM MultiMedia 2024 最佳论文荣誉提名奖</font>) [\[Website\]](https://2024.acmmm.org/awards).
 
 ### Honorary Prizes
-<!-- - *2026.01*: Excellent Students of Beijing. (北京市三好学生) -->
+- *2026.01*: Excellent Students of Beijing. (北京市三好学生)
 - *2025.12*: National Scholarship for Doctoral Students. (博士研究生国家奖学金)
 - *2025.05*: President of Chinese Academy of Sciences Excellence Award. (中国科学院院长优秀奖)
 - *2025.05*: Pacemaker to Merit Student of UCAS. (三好学生标兵)
