@@ -26,7 +26,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2026.
+- *2026.02*: &nbsp;🎉🎉 Two papers have been accepted by CVPR 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 Winning two first-prizes of the CVPR 2025 Challenges.
 - *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2025.
@@ -148,6 +148,7 @@ Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**)
 - *2024.10*: ACM MultiMedia 2024 Honourable Mention Award. (<font color='red'>ACM MultiMedia 2024 最佳论文荣誉提名奖</font>) [\[Website\]](https://2024.acmmm.org/awards).
 
 ### Honorary Prizes
+- *2026.05*: Excellent Student Leader‌ of UCAS. (优秀学生干部)
 - *2026.01*: Excellent Students of Beijing. (北京市三好学生)
 - *2025.12*: National Scholarship for Doctoral Students. (博士研究生国家奖学金)
 - *2025.05*: President of Chinese Academy of Sciences Excellence Award. (中国科学院院长优秀奖)
@@ -165,9 +166,10 @@ Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**)
 - Artificial Intelligence In Medicine: Reviewer
 
 ### Conference
-- ACM MultiMedia: Reviewer (2024)
+- NeurIPS: Reviewer (2026)
 - CVPR: Reviewer (2026)
 - ECCV: Reviewer (2026)
+- ACM MultiMedia: Reviewer (2024)
 
 
 # 🎓 Educations
