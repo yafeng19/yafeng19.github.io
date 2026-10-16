@@ -26,6 +26,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2026.
 - *2026.02*: &nbsp;🎉🎉 Two papers have been accepted by CVPR 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 Winning two first-prizes of the CVPR 2025 Challenges.
@@ -79,6 +80,20 @@ ACM International Conference on Multimedia (**ACM MultiMedia, CCF-A**) 2024.  **
 - This paper proposes a self-supervised video retrieval framework with hierarchical AP optimization from the view of aligning the training objective and the evaluation metric.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/neurips26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Self-Supervised Vision Transformers with Cross Distillation]()
+
+[Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), **Yang Liu**, [Xiaochun Cao](https://scst.sysu.edu.cn/teacher/CaoXiaochun), [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang).
+Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 2026. |
+[[Code]]() | [[Slides]]() | [[Project]]()
+- This paper proposes cross distillation to transfer global class-token semantics into masked patch targets, improving both dense prediction and image classification in self-supervised Vision Transformers.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -140,6 +155,7 @@ Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**)
 
 # 🏅 Honors and Awards
 ### Research Awards
+- *2026.10*: NeurIPS 2026 Top Reviewer. [\[Website\]](https://neurips.cc/Conferences/2026/ProgramCommittee).
 - *2025.10*: Third place in ICCV 2025 Physics-IQ × Perception Test Challenge. [\[Website\]](https://physics-iq.github.io/workshop/physics-iq-challenge.html).
 - *2025.10*: Outstanding report on 2025 China Journal of Image and Graphics Graduate Student Academic Salon. [\[Website\]](https://mp.weixin.qq.com/s/6-cKZ01YnX3ASSqN_8q2XQ)
 - *2025.06*: First place in CVPR 2025 AVA Challenge of 3D Human Motion Generation Track. [\[Website\]](https://accessibility-cv.github.io/).
@@ -147,7 +163,9 @@ Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**)
 - *2024.12*: Excellent Poster on Young Scientists Conference of CSIG 2024. [\[Website\]](http://youth.csig.org.cn/CSIG2024/index.html#/announcement/2024-12-21-success).
 - *2024.10*: ACM MultiMedia 2024 Honourable Mention Award. (<font color='red'>ACM MultiMedia 2024 最佳论文荣誉提名奖</font>) [\[Website\]](https://2024.acmmm.org/awards).
 
+
 ### Honorary Prizes
+<!-- - *2026.11*: Youth Talents Support Project - Doctoral Student Special Program, 2026 December. (中国科协青年人才托举工程-博士生专项) -->
 - *2026.05*: Excellent Student Leader‌ of UCAS. (优秀学生干部)
 - *2026.01*: Excellent Students of Beijing. (北京市三好学生)
 - *2025.12*: National Scholarship for Doctoral Students. (博士研究生国家奖学金)
@@ -161,11 +179,13 @@ Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**)
 
 # 📖 Academic Services
 ### Journal
+- IEEE Transactions on Multimedia (IEEE T-MM): Reviewer
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT): Reviewer
 - Multimedia Systems: Reviewer
 - Artificial Intelligence In Medicine: Reviewer
 
 ### Conference
+- ICLR: Reviewer (2027)
 - NeurIPS: Reviewer (2026)
 - CVPR: Reviewer (2026)
 - ECCV: Reviewer (2026)
