@@ -26,6 +26,7 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 One paper has been accepted by TPAMI.
 - *2026.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2026.
 - *2026.02*: &nbsp;🎉🎉 Two papers have been accepted by CVPR 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025.
@@ -37,6 +38,19 @@ Hi! I'm Yang Liu (柳洋, E-mail: liuyang232@mails.ucas.ac.cn). Now I am a PhD. 
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/papers/tpami26.png' alt="VT-CoRe framework for patch registration, self-distillation, and temporal variation modeling" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Variation-aware Temporal Correspondence for Self-Supervised Video Representation Learning](https://arxiv.org/abs/2611.34220)
+
+**Yang Liu**, [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang).
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI, CCF-A**), accepted in 2026.
+
+- This paper proposes a self-supervised framework for temporal variation-aware video representation learning by modeling the evolution of corresponding representations across frames.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr26a.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,11 +99,12 @@ ACM International Conference on Multimedia (**ACM MultiMedia, CCF-A**) 2024.  **
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/neurips26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improving Self-Supervised Vision Transformers with Cross Distillation]()
+[CODI: Improving Self-Supervised Vision Transformers with Cross Distillation](https://arxiv.org/abs/2610.30639)
 
 [Siran Dai](https://scholar.google.com.hk/citations?user=_6gw9FQAAAAJ&hl=zh-CN&oi=ao), [Qianqian Xu\*](https://qianqianxu010.github.io/), [Peisong Wen](https://scholar.google.com.hk/citations?user=Zk2XLWYAAAAJ&hl=zh-CN&oi=ao), **Yang Liu**, [Xiaochun Cao](https://scst.sysu.edu.cn/teacher/CaoXiaochun), [Qingming Huang\*](https://people.ucas.ac.cn/~qmhuang).
 Annual Conference on Neural Information Processing Systems (**NeurIPS, CCF-A**) 2026. |
-[[Code]]() | [[Slides]]() | [[Project]]()
+[[Project]](https://github.com/EldercatSAM/CODI)
+
 - This paper proposes cross distillation to transfer global class-token semantics into masked patch targets, improving both dense prediction and image classification in self-supervised Vision Transformers.
 </div>
 </div>
@@ -185,6 +200,7 @@ Conference on Computer Vision and Pattern Recognition (**CVPR Findings, CCF-A**)
 - Artificial Intelligence In Medicine: Reviewer
 
 ### Conference
+- ICML: Reviewer (2027)
 - ICLR: Reviewer (2027)
 - NeurIPS: Reviewer (2026)
 - CVPR: Reviewer (2026)
